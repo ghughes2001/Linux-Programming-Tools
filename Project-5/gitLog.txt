@@ -1,0 +1,267 @@
+Master:
+	commit 627d53a2d1955c92dbe403ec599184ca55f96449
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 23:18:36 2023 -0600
+
+    final change
+
+commit 4fa2c95dc36101f26d1eaeee4271fd4e79a722e8
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 23:13:34 2023 -0600
+
+    Final change (I think)
+
+commit 18474c951e59a8344be925c5d7eeb8ffd0307ecc
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 23:12:13 2023 -0600
+
+    think it will run now
+
+commit 0495fdbf4d88806520a4453f03c1a5c0d67f9b1d
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 22:58:49 2023 -0600
+
+    think it will run now
+
+commit d7b734198bee84d2ed442e71d882b603cd178ebe
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 22:44:28 2023 -0600
+
+    had to chnage a lot
+
+commit 8c9d1548c8de85e997335d066d99139957670a01
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 22:31:36 2023 -0600
+
+    made more changes to child/parent
+
+commit 31c3f60f92afea72718402542170e4a9d7e10a63
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 22:26:00 2023 -0600
+
+    made more changes to child/parent
+
+commit 5df7aded70275d68e49a1781662533b39870f357
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 22:23:11 2023 -0600
+
+    made more changes to child/parent
+
+commit c4f4344a9c3f12a088be76267c35c26855ea52b5
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 22:22:32 2023 -0600
+
+    made more changes to child/parent
+
+commit 10fcba5f9e7a06f7a63610b2c76bab492f8b6ea5
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 22:20:42 2023 -0600
+
+    made more changes to child/parent
+
+commit d579949b930dd5b862f2bd8750f970ce19b0f760
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 22:17:17 2023 -0600
+
+    made more changes to child/parent
+
+commit d39ab3416454aa289f442c2d6009d32278d4bb23
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 16:43:15 2023 -0600
+
+    made new changes to child/parent
+
+commit b019153132139f8f43768414b0fdd5fceddaecbb
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 16:39:28 2023 -0600
+
+    made some changes to child/parent code
+
+commit a07a35c9d5d90b0f1fcb667caaf29aa90c8ad73a
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 00:21:03 2023 -0600
+
+    need to run it but think I did shared emmeory wrong
+
+commit 9fee1b3f7c142aeab9ff965fa68f7aaba19af8d8
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 00:13:44 2023 -0600
+
+    started the child/parent tasks
+
+commit 2d2723922ab78bdd14d4a3f8a37cc64fd5343304
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Sun Dec 3 22:05:33 2023 -0600
+
+    mssing w/ shared memory
+
+commit 1a636df686f0e48086dc9f10ec7310f621685256
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Sun Dec 3 20:51:07 2023 -0600
+
+    slowly starting
+
+commit 083c5a523c7a6ef07baf1815aaa1f36f28d35140
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Sun Dec 3 20:20:37 2023 -0600
+
+    started the project
+
+commit e06b6cc0639c11b37cb5a8ee42f5576287144d69
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Sun Dec 3 20:13:56 2023 -0600
+
+    adding the file
+day-2:
+	Switched to branch 'day-2'
+[gdhq7p@delmar Project-5]$ git log
+commit a07a35c9d5d90b0f1fcb667caaf29aa90c8ad73a
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 00:21:03 2023 -0600
+
+    need to run it but think I did shared emmeory wrong
+
+commit 9fee1b3f7c142aeab9ff965fa68f7aaba19af8d8
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 00:13:44 2023 -0600
+
+    started the child/parent tasks
+
+commit 2d2723922ab78bdd14d4a3f8a37cc64fd5343304
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Sun Dec 3 22:05:33 2023 -0600
+
+    mssing w/ shared memory
+
+commit 1a636df686f0e48086dc9f10ec7310f621685256
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Sun Dec 3 20:51:07 2023 -0600
+
+    slowly starting
+
+commit 083c5a523c7a6ef07baf1815aaa1f36f28d35140
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Sun Dec 3 20:20:37 2023 -0600
+
+    started the project
+
+commit e06b6cc0639c11b37cb5a8ee42f5576287144d69
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Sun Dec 3 20:13:56 2023 -0600
+
+    adding the file
+Day-3:
+	[gdhq7p@delmar Project-5]$ git log
+commit 627d53a2d1955c92dbe403ec599184ca55f96449
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 23:18:36 2023 -0600
+
+    final change
+
+commit 4fa2c95dc36101f26d1eaeee4271fd4e79a722e8
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 23:13:34 2023 -0600
+
+    Final change (I think)
+
+commit 18474c951e59a8344be925c5d7eeb8ffd0307ecc
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 23:12:13 2023 -0600
+
+    think it will run now
+
+commit 0495fdbf4d88806520a4453f03c1a5c0d67f9b1d
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 22:58:49 2023 -0600
+
+    think it will run now
+
+commit d7b734198bee84d2ed442e71d882b603cd178ebe
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 22:44:28 2023 -0600
+
+    had to chnage a lot
+
+commit 8c9d1548c8de85e997335d066d99139957670a01
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 22:31:36 2023 -0600
+
+    made more changes to child/parent
+
+commit 31c3f60f92afea72718402542170e4a9d7e10a63
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 22:26:00 2023 -0600
+
+    made more changes to child/parent
+
+commit 5df7aded70275d68e49a1781662533b39870f357
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 22:23:11 2023 -0600
+
+    made more changes to child/parent
+
+commit c4f4344a9c3f12a088be76267c35c26855ea52b5
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 22:22:32 2023 -0600
+
+    made more changes to child/parent
+
+commit 10fcba5f9e7a06f7a63610b2c76bab492f8b6ea5
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 22:20:42 2023 -0600
+
+    made more changes to child/parent
+
+commit d579949b930dd5b862f2bd8750f970ce19b0f760
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 22:17:17 2023 -0600
+
+    made more changes to child/parent
+
+commit d39ab3416454aa289f442c2d6009d32278d4bb23
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 16:43:15 2023 -0600
+
+    made new changes to child/parent
+
+commit b019153132139f8f43768414b0fdd5fceddaecbb
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 16:39:28 2023 -0600
+
+    made some changes to child/parent code
+
+commit a07a35c9d5d90b0f1fcb667caaf29aa90c8ad73a
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 00:21:03 2023 -0600
+
+    need to run it but think I did shared emmeory wrong
+
+commit 9fee1b3f7c142aeab9ff965fa68f7aaba19af8d8
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Tue Dec 5 00:13:44 2023 -0600
+
+    started the child/parent tasks
+
+commit 2d2723922ab78bdd14d4a3f8a37cc64fd5343304
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Sun Dec 3 22:05:33 2023 -0600
+
+    mssing w/ shared memory
+
+commit 1a636df686f0e48086dc9f10ec7310f621685256
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Sun Dec 3 20:51:07 2023 -0600
+
+    slowly starting
+
+commit 083c5a523c7a6ef07baf1815aaa1f36f28d35140
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Sun Dec 3 20:20:37 2023 -0600
+
+    started the project
+
+commit e06b6cc0639c11b37cb5a8ee42f5576287144d69
+Author: Grant <gdhq7p@umsystem.edu>
+Date:   Sun Dec 3 20:13:56 2023 -0600
+
+    adding the file
